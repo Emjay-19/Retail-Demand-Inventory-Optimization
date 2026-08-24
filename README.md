@@ -25,33 +25,33 @@ Without a consolidated analytical view, it can be difficult to determine:
 
 The project addresses these challenges by converting raw order data into an interactive decision-support dashboard that connects product performance, demand patterns, and warehouse activity to actionable business decisions.  
 
-❓ Business Questions Answered
-Product Performance
-Which products have the highest demand?
-Which products generate the most revenue?
-Which categories generate the greatest demand and revenue?
-Which products are top-performing or underperforming?
-Which products should receive production or replenishment priority?
-Demand Trends
-How has demand changed over time?
-Are there clear seasonal demand patterns?
-Which months experience the highest demand?
-Which weekdays experience the highest demand?
-What time of day has the highest order activity?
-Which products are most demanded at different times?
-Warehouse Optimization
-Which warehouses fulfill the highest demand?
-Which warehouses generate the most revenue?
-Are certain warehouses specialized in specific product categories?
-Which warehouses or locations have the greatest demand concentration?
-Which locations should receive more inventory focus?
-Where should inventory be strategically allocated?
-Overall Business Decision
+## Business Questions Answered  
+### Product Performance
+- Which products have the highest demand? 
+- Which products generate the most revenue?  
+- Which categories generate the greatest demand and revenue?  
+- Which products are top-performing or underperforming?  
+- Which products should receive production or replenishment priority?  
+### Demand Trends  
+- How has demand changed over time?  
+- Are there clear seasonal demand patterns?  
+- Which months experience the highest demand?  
+- Which weekdays experience the highest demand?  
+- What time of day has the highest order activity?  
+- Which products are most demanded at different times?  
+### Warehouse Optimization  
+- Which warehouses fulfill the highest demand?  
+- Which warehouses generate the most revenue?  
+- Are certain warehouses specialized in specific product categories?  
+- Which warehouses or locations have the greatest demand concentration?  
+- Which locations should receive more inventory focus?  
+- Where should inventory be strategically allocated?  
+## Overall Business Decision  
 
-The analysis ultimately answers three core management questions:
+The analysis ultimately answers three core management questions:  
 
-What should we prioritize?
-When should we prepare for demand?
-Where should we allocate inventory?
+- What should we prioritize?  
+- When should we prepare for demand?  
+- Where should we allocate inventory?  
 
-This enables Nova Retail Solutions to make more informed decisions around forecasting, production prioritization, replenishment, and warehouse inventory allocation.
+This enables Nova Retail Solutions to make more informed decisions around forecasting, production prioritization, replenishment, and warehouse inventory allocation.  
