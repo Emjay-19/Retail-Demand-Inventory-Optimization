@@ -96,6 +96,16 @@ Warehouse Optimization
 **6. Insight Generation**  
 Translated analytical findings into recommendations for production, replenishment, demand forecasting, and inventory allocation.  
 
+<img width="551" height="311" alt="Screenshot 2026-08-24 195401" src="https://github.com/user-attachments/assets/d08ea0d4-30ca-442d-880d-099ea993783a" />
+
+
+<img width="630" height="338" alt="Screenshot 2026-08-24 182814" src="https://github.com/user-attachments/assets/d1cf4ddc-3ae7-4a72-9864-a8139f4bdbe6" />
+
+<img width="629" height="338" alt="Screenshot 2026-08-24 182940" src="https://github.com/user-attachments/assets/d6245027-0308-4704-85dc-10a7821e9e9b" />
+<img width="627" height="338" alt="Screenshot 2026-08-24 182902" src="https://github.com/user-attachments/assets/23a4193a-ae72-4ee1-b3d7-a76e997e3d81" />
+
+
+
 ## Key Insights  
 
 **Demand vs Revenue:** High-demand products were not always the highest-revenue products. TBOX recorded the highest demand (136.83M units), while VideoRight generated the highest revenue ($1.67M), highlighting the need to evaluate both volume and value when making production decisions.  
@@ -148,12 +158,12 @@ Regions and warehouse-product combinations with high demand and strong revenue c
 Future iterations should incorporate inventory levels, supplier lead times, purchase orders, stockouts, carrying costs, and replenishment cycles to develop a more comprehensive inventory optimization solution.  
 
 ## Limitations  
-The dataset covers only two years, limiting the ability to identify long-term trends and recurring seasonal patterns over multiple years.  
-The analysis is based on order demand, not actual inventory levels. Therefore, stockouts, inventory on hand, safety stock, and inventory turnover cannot be directly measured.  
-Weekend demand analysis is not applicable because orders do not occur on weekends.  
-The dataset does not provide sufficient information to calculate traditional inventory optimization metrics such as reorder points, lead times, economic order quantity (EOQ), or stockout rates.  
-Regional analysis is limited to the available ZIP Code/region information.  
-Historical demand patterns do not guarantee future demand and should be complemented with additional forecasting models.  
+- The dataset covers only two years, limiting the ability to identify long-term trends and recurring seasonal patterns over multiple years.  
+- The analysis is based on order demand, not actual inventory levels. Therefore, stockouts, inventory on hand, safety stock, and inventory turnover cannot be directly measured.  
+- Weekend demand analysis is not applicable because orders do not occur on weekends.  
+- The dataset does not provide sufficient information to calculate traditional inventory optimization metrics such as reorder points, lead times, economic order quantity (EOQ), or stockout rates.  
+- Regional analysis is limited to the available ZIP Code/region information.  
+- Historical demand patterns do not guarantee future demand and should be complemented with additional forecasting models.  
 
 ## Conclusion  
 
@@ -161,7 +171,7 @@ The Retail Demand & Inventory Optimization project demonstrates how transactiona
 
 The three dashboards provide a connected view of:  
 
-Product Performance → Demand Trends → Warehouse Optimization  
+**Product Performance → Demand Trends → Warehouse Optimization**  
 
 The analysis helps Nova Retail Solutions understand what products to prioritize, when demand occurs, and where inventory should be allocated.  
 
