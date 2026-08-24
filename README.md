@@ -179,7 +179,7 @@ By combining demand, revenue, time, product, and warehouse analysis, the dashboa
 
 Ultimately, the project moves beyond simply reporting historical performance and provides leadership with a data-driven framework for making better operational decisions.  
 
-Link to Power BI Report  
+## Link to Power BI Report  
 
 [Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMTJhOTUwZDUtNGI4Yy00NmM1LTkzOTItMGQyYzA3MGVhZTZjIiwidCI6ImM0Njk0ZTkyLWUyYWQtNGJkOC1hZWE3LTA5MzYyOGU2YWU0ZSJ9
 )
