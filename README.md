@@ -115,4 +115,9 @@ Translated analytical findings into recommendations for production, replenishmen
 **Production Prioritization:** Products with high demand, strong revenue contribution, and positive demand trends represent the strongest candidates for increased production or replenishment, while consistently low-performing products should be reviewed for potential inventory reduction.  
 
 
-Link to Power BI Report  
+Link to Power BI Report 
+
+[Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMTJhOTUwZDUtNGI4Yy00NmM1LTkzOTItMGQyYzA3MGVhZTZjIiwidCI6ImM0Njk0ZTkyLWUyYWQtNGJkOC1hZWE3LTA5MzYyOGU2YWU0ZSJ9
+)
+
+[Power BI ](https://app.powerbi.com/view?r=eyJrIjoiZDU5NDg2NTctMGEyNS00ZGRlLTkzNmQtOGU2MjIwYTUxMjZhIiwidCI6IjU2YjNjMjUzLTdlM2MtNDFjNC04NjEwLTc4YjIyYWNjN2E2MCJ9&pageName=22e1f0c1a858a0a300c8)
