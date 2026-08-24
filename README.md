@@ -55,3 +55,43 @@ The analysis ultimately answers three core management questions:
 - Where should we allocate inventory?  
 
 This enables Nova Retail Solutions to make more informed decisions around forecasting, production prioritization, replenishment, and warehouse inventory allocation.  
+
+## Tools & Methodology  
+### Tools Used  
+**Power BI** — Dashboard development, interactive reporting, and visualization  
+**Power Query** — Data cleaning, transformation, and preparation  
+**DAX** — KPI development, ranking, performance classification, and time intelligence  
+**Excel** — Initial data inspection and validation  
+### Methodology  
+
+The project followed a structured analytics workflow:  
+
+**1. Data Preparation** 
+Reviewed the dataset, validated data types, handled inconsistencies, and prepared date and time fields for analysis.
+
+**2. Data Transformation**  
+Created a dedicated Calendar table with Year, Quarter, Month, Weekday, and Year-Month attributes. The order time was also transformed into Hour and Time of Day categories.
+
+**3. Data Modeling**  
+A star schema was implemented in Power BI, with Fact_Table at the center and four supporting dimension tables: Dim_Product, Dim_Warehouse, Calendar, and Dim_Time.  
+
+Fact_Table: Stores order transactions, demand, revenue, product, warehouse, date, and time information.  
+Dim_Product: Supports product and category performance analysis.  
+Dim_Warehouse: Enables warehouse and regional analysis using warehouse and ZIP information.  
+Calendar: Supports monthly trends, seasonality, weekday analysis, and MoM time intelligence.  
+Dim_Time: Enables analysis by hour and time of day.  
+
+All dimension tables have 1: relationships* with the Fact_Table, to support accurate filtering and time-based analysis.    
+
+**4. DAX Analysis**  
+Developed measures for demand, revenue, product performance, warehouse performance, ranking, priority classification, and Month-over-Month (MoM) analysis.  
+
+**5. Dashboard Development**  
+Built three interactive dashboards:  
+
+Product Performance  
+Demand Trends  
+Warehouse Optimization  
+
+**6. Insight Generation**  
+Translated analytical findings into recommendations for production, replenishment, demand forecasting, and inventory allocation.  
