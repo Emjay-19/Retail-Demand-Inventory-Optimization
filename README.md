@@ -114,8 +114,62 @@ Translated analytical findings into recommendations for production, replenishmen
 
 **Production Prioritization:** Products with high demand, strong revenue contribution, and positive demand trends represent the strongest candidates for increased production or replenishment, while consistently low-performing products should be reviewed for potential inventory reduction.  
 
+## Recommendations
+**1. Prioritize High-Demand Products**  
 
-Link to Power BI Report 
+Products with consistently high demand should receive greater production and replenishment priority to minimize potential supply gaps.  
+
+**2. Balance Demand and Revenue**  
+
+Production decisions should consider both demand volume and revenue contribution. High-volume products and high-value products may require different strategies.  
+
+**3. Strengthen Demand Forecasting**  
+
+Use the observed monthly trends, seasonal patterns, and MoM changes as inputs into future demand forecasting models.  
+
+**4. Prepare for Peak Periods**  
+
+The concentration of demand around specific weekdays and hours should guide warehouse staffing, fulfillment capacity, and inventory availability.  
+
+**5. Optimize Warehouse Allocation**  
+
+Warehouses experiencing consistently high demand should be evaluated for increased inventory capacity and operational resources.  
+
+**6. Leverage Warehouse Specialization**  
+
+Warehouse-category demand patterns can be used to strategically position products where they are most frequently demanded.  
+
+**7. Prioritize High-Opportunity Locations**  
+
+Regions and warehouse-product combinations with high demand and strong revenue contribution should receive greater inventory focus.  
+
+**. Enhance Future Analysis**  
+
+Future iterations should incorporate inventory levels, supplier lead times, purchase orders, stockouts, carrying costs, and replenishment cycles to develop a more comprehensive inventory optimization solution.  
+
+## Limitations  
+The dataset covers only two years, limiting the ability to identify long-term trends and recurring seasonal patterns over multiple years.  
+The analysis is based on order demand, not actual inventory levels. Therefore, stockouts, inventory on hand, safety stock, and inventory turnover cannot be directly measured.  
+Weekend demand analysis is not applicable because orders do not occur on weekends.  
+The dataset does not provide sufficient information to calculate traditional inventory optimization metrics such as reorder points, lead times, economic order quantity (EOQ), or stockout rates.  
+Regional analysis is limited to the available ZIP Code/region information.  
+Historical demand patterns do not guarantee future demand and should be complemented with additional forecasting models.  
+
+## Conclusion  
+
+The Retail Demand & Inventory Optimization project demonstrates how transactional retail data can be transformed into actionable business intelligence using Power BI.  
+
+The three dashboards provide a connected view of:  
+
+Product Performance → Demand Trends → Warehouse Optimization  
+
+The analysis helps Nova Retail Solutions understand what products to prioritize, when demand occurs, and where inventory should be allocated.  
+
+By combining demand, revenue, time, product, and warehouse analysis, the dashboard provides a practical foundation for improving demand forecasting, production planning, replenishment decisions, and inventory allocation.  
+
+Ultimately, the project moves beyond simply reporting historical performance and provides leadership with a data-driven framework for making better operational decisions.  
+
+Link to Power BI Report  
 
 [Power BI ](https://app.powerbi.com/view?r=eyJrIjoiMTJhOTUwZDUtNGI4Yy00NmM1LTkzOTItMGQyYzA3MGVhZTZjIiwidCI6ImM0Njk0ZTkyLWUyYWQtNGJkOC1hZWE3LTA5MzYyOGU2YWU0ZSJ9
 )
