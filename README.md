@@ -95,3 +95,24 @@ Warehouse Optimization
 
 **6. Insight Generation**  
 Translated analytical findings into recommendations for production, replenishment, demand forecasting, and inventory allocation.  
+
+## Key Insights  
+
+**Demand vs Revenue:** High-demand products were not always the highest-revenue products. TBOX recorded the highest demand (136.83M units), while VideoRight generated the highest revenue ($1.67M), highlighting the need to evaluate both volume and value when making production decisions.  
+
+**Peak Demand Period:** October recorded the highest monthly demand, indicating a potential seasonal demand peak that should be considered when planning inventory and production capacity.  
+
+**Peak Ordering Hour:** 10 PM recorded the highest order demand, indicating a strong concentration of activity during late hours and suggesting that fulfillment capacity should be aligned with peak ordering periods.  
+
+**Weekday Demand:** Monday recorded the highest demand among weekdays, suggesting that inventory availability and warehouse capacity should be strengthened ahead of the start of the business week.  
+
+**Warehouse Demand vs Revenue:** Cedar Park recorded the highest warehouse demand (1.25B units), while Berkeley generated the highest warehouse revenue ($12.05M). This indicates that the warehouse handling the greatest order volume is not necessarily the highest-value location, making both demand and revenue important for allocation decisions.  
+
+**Warehouse Specialization:** Differences in demand across warehouse-category combinations reveal opportunities for strategic product positioning, allowing warehouses to focus inventory on categories with stronger local demand.  
+
+**Demand Concentration:** The concentration of demand across specific products, periods, and warehouses suggests that inventory planning should be prioritized around high-demand combinations rather than distributed evenly across all products and locations.  
+
+**Production Prioritization:** Products with high demand, strong revenue contribution, and positive demand trends represent the strongest candidates for increased production or replenishment, while consistently low-performing products should be reviewed for potential inventory reduction.  
+
+
+Link to Power BI Report  
