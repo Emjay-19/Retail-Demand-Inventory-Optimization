@@ -20,7 +20,7 @@ Without a consolidated analytical view, it can be difficult to determine:
 - When order activity reaches its peak  
 - Which warehouses handle the greatest demand and revenue  
 - Which warehouses specialize in particular categories  
-- Which locations require greater inventory attention  
+- Which warehouses require greater inventory attention  
 - Which products should receive increased production or replenishment priority  
 
 The project addresses these challenges by converting raw order data into an interactive decision-support dashboard that connects product performance, demand patterns, and warehouse activity to actionable business decisions.  
@@ -43,8 +43,8 @@ The project addresses these challenges by converting raw order data into an inte
 - Which warehouses fulfill the highest demand?  
 - Which warehouses generate the most revenue?  
 - Are certain warehouses specialized in specific product categories?  
-- Which warehouses or locations have the greatest demand concentration?  
-- Which locations should receive more inventory focus?  
+- Which warehouses have the greatest demand concentration?  
+- Which warehouses should receive more inventory focus?  
 - Where should inventory be strategically allocated?  
 ## Overall Business Decision  
 
