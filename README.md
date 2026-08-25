@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#project-overview)
 - [Problem Statement](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#problem-statement)
-- - [Business Questions Answered](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#business-questions-answered)
+- [Business Questions Answered](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#business-questions-answered)
 - [Data Source](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#data-source)
 - [Tools and Methodology](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization-Productivity/blob/main/README.md#tools-and-methodology)
 - [Key Insights](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#key-insights)
