@@ -71,10 +71,10 @@ The analysis ultimately answers three core management questions:
 
 This enables Nova Retail Solutions to make more informed decisions around forecasting, production prioritization, replenishment, and warehouse inventory allocation.  
 
-## Data Source
-
+## Data Source  
 The dataset was provided as part of a Data Analytics Challenge organized by Power BI Project Club on X (Twitter).  
-It contains two years of retail order data covering product demand, revenue, warehouses, regions/ZIP codes, order dates, and order times.
+It contains two years of retail order data covering product demand, revenue, warehouses, regions/ZIP codes, order dates, and order times.  
+You can access the dataset for this project [here](https://docs.google.com/spreadsheets/d/1lYCOYCnCziZj3iBGKFO0VQsBc4kyPoJe03KfCm5mZvU/edit?usp=sharing)
 
 ## Tools & Methodology  
 ### Tools Used  
