@@ -75,7 +75,7 @@ The dataset was provided as part of a Data Analytics Challenge organized by Powe
 It contains two years of retail order data covering product demand, revenue, warehouses, regions/ZIP codes, order dates, and order times.  
 You can access the dataset for this project [here](https://docs.google.com/spreadsheets/d/1lYCOYCnCziZj3iBGKFO0VQsBc4kyPoJe03KfCm5mZvU/edit?usp=sharing)
 
-## Tools & Methodology  
+## Tools and Methodology  
 ### Tools Used  
 **Power BI** — Dashboard development, interactive reporting, and visualization  
 **Power Query** — Data cleaning, transformation, and preparation  
