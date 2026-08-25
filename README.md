@@ -3,15 +3,14 @@
 ## Table of Contents
 - [Project Overview](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#project-overview)
 - [Problem Statement](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#problem-statement)
+- - [Business Questions Answered](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#business-questions-answered)
 - [Data Source](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#data-source)
-- [Tools and Methodologies](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization-Productivity/blob/main/README.md#tools-and-methodologies)
-- [Business Questions](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#business-questions)
-- [Exploratory Data Analysis (EDA)](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#exploratory-data-analysis-eda)
-- [Key Insights](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#key-insights)
-- [Summary of Findings](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#summary-of-findings)
-- [Recommendations](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#recommendations)
-- [Limitations](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#limitations)
-- [Conclusion](https://github.com/Emjay-19/Climate-Impact-on-Agricultural-Productivity/blob/main/README.md#conclusion)
+- [Tools and Methodology](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization-Productivity/blob/main/README.md#tools-and-methodology)
+- [Key Insights](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#key-insights)
+- [Summary of Findings](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#summary-of-findings)
+- [Recommendations](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#recommendations)
+- [Limitations](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#limitations)
+- [Conclusion](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#conclusion)
 
 
 
