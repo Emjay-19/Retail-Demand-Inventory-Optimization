@@ -101,8 +101,10 @@ Translated analytical findings into recommendations for production, replenishmen
 
 <img width="630" height="338" alt="Screenshot 2026-08-24 182814" src="https://github.com/user-attachments/assets/d1cf4ddc-3ae7-4a72-9864-a8139f4bdbe6" />
 
-<img width="629" height="338" alt="Screenshot 2026-08-24 182940" src="https://github.com/user-attachments/assets/d6245027-0308-4704-85dc-10a7821e9e9b" />
 <img width="627" height="338" alt="Screenshot 2026-08-24 182902" src="https://github.com/user-attachments/assets/23a4193a-ae72-4ee1-b3d7-a76e997e3d81" />
+
+<img width="629" height="338" alt="Screenshot 2026-08-24 182940" src="https://github.com/user-attachments/assets/d6245027-0308-4704-85dc-10a7821e9e9b" />
+
 
 
 
