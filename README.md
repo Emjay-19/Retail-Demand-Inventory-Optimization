@@ -7,7 +7,6 @@
 - [Data Source](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#data-source)
 - [Tools and Methodology](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#tools-and-methodology)
 - [Key Insights](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#key-insights)
-- [Summary of Findings](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#summary-of-findings)
 - [Recommendations](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#recommendations)
 - [Limitations](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#limitations)
 - [Conclusion](https://github.com/Emjay-19/Retail-Demand-Inventory-Optimization/blob/main/README.md#conclusion)
